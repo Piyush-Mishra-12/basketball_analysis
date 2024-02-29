@@ -1,4 +1,18 @@
-Total Dribbles: 361
-Dribbles by Left Hand: 128
-Dribbles by Right Hand: 233
-Transitions between Hands: 59
+Events List:
+rh, b, rh, b, rh, b, rh, b, rh, b, lh, b, lh, b, lh, b, lh, b, rh, b, lh, 
+b, lh, b, rh, b, rh, b, lh, b, rh, b, lh, b, rh, b, lh, b, rh, b, lh, b, 
+rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, lh, 
+b, lh, b, rh, b, rh, b, lh, b, rh, b, rh, b, rh, b, rh, b, lh, b, lh, b, 
+lh, b, lh, b, lh, b, lh, b, lh, b, lh, b, rh, b, rh, b, rh, b, rh, b, rh, 
+b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, lh, b, rh, b, 
+lh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, lh, 
+b, lh, b, lh, b, rh, b, rh, b, rh, b, rh, b, rh, b, lh, b, lh, b, lh, b, 
+rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, rh, b, lh, b, lh, b, lh, 
+b, rh, b, rh, b, rh, 
+No. of Events: 195
+
+Total Bounce: 97
+Dribbles by Left Hand: 32
+Dribbles by Right Hand: 66
+Transitions between Hands: 28
+Dominant hand of the person: The person is Right Handed
